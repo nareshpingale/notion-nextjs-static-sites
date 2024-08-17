@@ -19,7 +19,7 @@ const UtterancesComponent = dynamic(
 )
 const CusdisComponent = dynamic(
   () => {
-    return import('react-cusdis').then(m => m.ReactCusdis)
+    return import('@pinging/react-cusdis').then(m => m.ReactCusdis)
   },
   { ssr: false }
 )

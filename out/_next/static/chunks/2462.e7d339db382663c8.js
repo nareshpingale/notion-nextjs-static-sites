@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2462],{52462:function(E){E.exports=JSON.parse('{"NAV":{"INDEX":"網誌","RSS":"訂閱","SEARCH":"搜尋","ABOUT":"關於"},"PAGINATION":{"PREV":"上一頁","NEXT":"下一頁"},"POST":{"BACK":"返回","TOP":"回到頂端"},"PAGE":{"ERROR_404":{"MESSAGE":"呢度乜都冇"}}}')}}]);

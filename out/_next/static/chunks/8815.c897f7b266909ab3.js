@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8815],{78815:function(e){e.exports=JSON.parse('{"NAV":{"INDEX":"Blog","RSS":"RSS","SEARCH":"Search","ABOUT":"About"},"PAGINATION":{"PREV":"Prev","NEXT":"Next"},"POST":{"BACK":"Back","TOP":"Top"},"PAGE":{"ERROR_404":{"MESSAGE":"Nothing here"}}}')}}]);

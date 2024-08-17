@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1255],{61255:function(E){E.exports=JSON.parse('{"NAV":{"INDEX":"博客","RSS":"订阅","SEARCH":"搜索","ABOUT":"关于"},"PAGINATION":{"PREV":"上一页","NEXT":"下一页"},"POST":{"BACK":"返回","TOP":"回到顶部"},"PAGE":{"ERROR_404":{"MESSAGE":"什么也没有"}}}')}}]);

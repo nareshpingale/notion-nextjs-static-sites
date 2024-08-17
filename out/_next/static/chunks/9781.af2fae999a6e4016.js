@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9781],{9781:function(e){e.exports=JSON.parse('{"NAV":{"INDEX":"Blog","RSS":"RSS","SEARCH":"Buscar","ABOUT":"Acerca de m\xed"},"PAGINATION":{"PREV":"Anterior","NEXT":"Siguiente"},"POST":{"BACK":"Atr\xe1s","TOP":"Arriba"},"PAGE":{"ERROR_404":{"MESSAGE":"No hay nada aqu\xed"}}}')}}]);
